@@ -21,7 +21,10 @@ Cubism targets a **6DoF standalone headset with colour passthrough**, specifical
 
 This hardware class forces a specific design envelope. Colour passthrough with depth awareness is absolutely critical here. If run on older hardware like the Quest 2 (monochrome, low-res passthrough without accurate depth projection), the illusion of the puzzle sitting seamlessly on a physical table breaks down, and the user's hands appear awkwardly superimposed or misaligned due to latency and poor tracking resolution as documented in the developer's update logs.
 
-![Video from Cubism MR update trailer showing virtual blocks anchored to a physical desk](assets/Cubism%20Mixed%20Reality%20Trailer%20Meta%20Quest%20Platform%20-%20Meta%20Quest%20(1080p).mp4)
+<video width="100%" controls>
+  <source src="assets/Cubism%20Mixed%20Reality%20Trailer%20Meta%20Quest%20Platform%20-%20Meta%20Quest%20(1080p).mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## 2. Input modality
 
@@ -33,7 +36,7 @@ This hardware class forces a specific design envelope. Colour passthrough with d
 
 **What I would change:** I would implement a robust "gaze and microgesture" fallback system. Allowing users to rest their arms on the table and simply look at a puzzle piece while doing a thumb-tap microgesture on their lap would completely solve the physical fatigue while retaining controller-free input.
 
-![Screenshot from a video review demonstrating hand tracking interaction and potential occlusion angles](assets/fig2.png)
+![Screenshot from press kit demonstrating bare-hand interaction and puzzle placement](assets/fig2.png)
 
 ## 3. Use of AI
 
@@ -52,7 +55,7 @@ There is no meaningful AI used in the *content*, *interaction* (like NPCs or LLM
 
 **Accessibility / human factors:** Cubism's reliance on precise hand tracking makes it inaccessible to users with fine motor impairments or severe hand tremors. A user must be able to hold a steady "pinch" state and rotate their wrists smoothly. Any shaking causes the virtual block to drop or snap to the wrong grid space, as the optical tracking reads the tremor as an intentional release gesture.
 
-![Screenshot from developer documentation video showing passthrough mesh blending with a physical table](assets/fig3.png)
+![Screenshot from press kit showing passthrough mesh blending with a physical table](assets/fig3.png)
 
 ## 5. What I take from this
 
@@ -68,9 +71,9 @@ Cubism demonstrates that Mixed Reality shines brightest when it respects physica
 
 ## Figure credits
 
-- Fig. 1 — Video file (`assets/Cubism Mixed Reality Trailer Meta Quest Platform - Meta Quest (1080p).mp4`) from *Cubism - Mixed Reality Update Trailer* (Ref. 3), showing virtual blocks anchored to a physical desk.
-- Fig. 2 — Screenshot taken from *Cubism Hand Tracking & Passthrough Gameplay* (Ref. 4), demonstrating bare-hand interaction.
-- Fig. 3 — Screenshot taken from *Cubism - Mixed Reality Update Trailer* (Ref. 3), showing passthrough occlusion.
+- Fig. 1 — Embedded video file (`assets/Cubism Mixed Reality Trailer Meta Quest Platform - Meta Quest (1080p).mp4`), showing virtual blocks anchored to a physical desk.
+- Fig. 2 — Promotional screenshot from *Cubism Press Kit* (Ref. 3), demonstrating bare-hand interaction.
+- Fig. 3 — Promotional screenshot from *Cubism Press Kit* (Ref. 3), showing passthrough mesh integration.
 
 ## AI-assistance disclosure
 
