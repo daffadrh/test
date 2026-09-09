@@ -21,7 +21,7 @@ Cubism targets a **6DoF standalone headset with colour passthrough**, specifical
 
 This hardware class forces a specific design envelope. Colour passthrough with depth awareness is absolutely critical here. If run on older hardware like the Quest 2 (monochrome, low-res passthrough without accurate depth projection), the illusion of the puzzle sitting seamlessly on a physical table breaks down, and the user's hands appear awkwardly superimposed or misaligned due to latency and poor tracking resolution as documented in the developer's update logs.
 
-![Screenshot from Cubism MR update trailer showing virtual blocks anchored to a physical desk](assets/fig1.png)
+![Video from Cubism MR update trailer showing virtual blocks anchored to a physical desk](assets/Cubism%20Mixed%20Reality%20Trailer%20Meta%20Quest%20Platform%20-%20Meta%20Quest%20(1080p).mp4)
 
 ## 2. Input modality
 
@@ -68,7 +68,7 @@ Cubism demonstrates that Mixed Reality shines brightest when it respects physica
 
 ## Figure credits
 
-- Fig. 1 — Screenshot taken from *Cubism - Mixed Reality Update Trailer* (Ref. 3), showing virtual blocks anchored to a physical desk.
+- Fig. 1 — Video file (`assets/Cubism Mixed Reality Trailer Meta Quest Platform - Meta Quest (1080p).mp4`) from *Cubism - Mixed Reality Update Trailer* (Ref. 3), showing virtual blocks anchored to a physical desk.
 - Fig. 2 — Screenshot taken from *Cubism Hand Tracking & Passthrough Gameplay* (Ref. 4), demonstrating bare-hand interaction.
 - Fig. 3 — Screenshot taken from *Cubism - Mixed Reality Update Trailer* (Ref. 3), showing passthrough occlusion.
 
