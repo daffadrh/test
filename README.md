@@ -35,7 +35,7 @@ https://github.com/user-attachments/assets/78e4d0e7-54e7-4d52-8e7c-015ceaa3dd62
 
 **What I would change:** I would implement a robust "gaze and microgesture" fallback system. Allowing users to rest their arms on the table and simply look at a puzzle piece while doing a thumb-tap microgesture on their lap would completely solve the physical fatigue while retaining controller-free input.
 
-![Screenshot from press kit demonstrating bare-hand interaction and puzzle placement](assets/fig2.png)
+<img width="2560" height="1440" alt="Screenshot_01" src="https://github.com/user-attachments/assets/cbfe951c-6b0f-45a9-a872-048817408772" />
 
 ## 3. Use of AI
 
