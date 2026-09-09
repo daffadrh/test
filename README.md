@@ -35,7 +35,7 @@ https://github.com/user-attachments/assets/78e4d0e7-54e7-4d52-8e7c-015ceaa3dd62
 
 **What I would change:** I would implement a robust "gaze and microgesture" fallback system. Allowing users to rest their arms on the table and simply look at a puzzle piece while doing a thumb-tap microgesture on their lap would completely solve the physical fatigue while retaining controller-free input.
 
-<img width="2560" height="1440" alt="Screenshot_01" src="https://github.com/user-attachments/assets/cbfe951c-6b0f-45a9-a872-048817408772" />
+<img width="1291" height="721" alt="image" src="https://github.com/user-attachments/assets/e4250ceb-ff1c-434c-8a1d-3b19335d3289" />
 
 ## 3. Use of AI
 
@@ -54,7 +54,7 @@ There is no meaningful AI used in the *content*, *interaction* (like NPCs or LLM
 
 **Accessibility / human factors:** Cubism's reliance on precise hand tracking makes it inaccessible to users with fine motor impairments or severe hand tremors. A user must be able to hold a steady "pinch" state and rotate their wrists smoothly. Any shaking causes the virtual block to drop or snap to the wrong grid space, as the optical tracking reads the tremor as an intentional release gesture.
 
-![Screenshot from press kit showing passthrough mesh blending with a physical table](assets/fig3.png)
+<img width="2560" height="1440" alt="Screenshot_01" src="https://github.com/user-attachments/assets/cbfe951c-6b0f-45a9-a872-048817408772" />
 
 ## 5. What I take from this
 
