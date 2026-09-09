@@ -64,8 +64,7 @@ Cubism demonstrates that Mixed Reality shines brightest when it respects physica
 
 1. Meta Horizon OS Developers. (2026). *Hands Technology*. URL: https://developers.meta.com/horizon/design/hands-technology/ — accessed 10 Sep 2026
 2. Meta Horizon OS Developers. (2026). *How Developers Are Increasing User Retention with Presence*. URL: https://developers.meta.com/horizon/blog/mixed-reality-mr-retention-presence-platform-tools-meta-quest-developers/ — accessed 10 Sep 2026
-3. Van Bouwel, T. (2023). *Cubism - Mixed Reality Update Trailer*. YouTube. URL: https://www.youtube.com/watch?v=F0K8v8s7zF4 — accessed 10 Sep 2026
-4. UploadVR. (2023). *Cubism Hand Tracking & Passthrough Gameplay*. YouTube. URL: https://www.youtube.com/watch?v=examplelink — accessed 10 Sep 2026
+3. Van Bouwel, T. (2023). *Cubism Press Kit & Update Logs*. URL: https://www.cubism-vr.com/presskit/ — accessed 10 Sep 2026
 
 ## Figure credits
 
